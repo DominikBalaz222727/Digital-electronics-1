@@ -5,5 +5,7 @@
 **Tučné písmo** a
 *Italic písmo*
 ```
-github
+git status
+git add
+git commit
 ```
