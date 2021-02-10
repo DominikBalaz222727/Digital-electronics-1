@@ -9,6 +9,5 @@ git status
 git add
 git commit
 ```
--1. Hlavička
--2. Popis
--3. GitHub
+./1. Hlavička
+../2. Hlavička
