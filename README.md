@@ -3,6 +3,7 @@
 ### Nadpis 3 úrovne
 ###### alt+96 zpätný apostrof
 **Tučné písmo**
+*Italic písmo*
 ```
 github
 ```
