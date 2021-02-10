@@ -13,6 +13,6 @@ git commit
 
 | 1. zložka  | 2. zložka | 
 | ------------- | ------------- | 
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| mobil  | 3  |
+| dom | 1  |
+| auto | 1  |
