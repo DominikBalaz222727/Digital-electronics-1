@@ -11,10 +11,8 @@ git commit
 ```
 
 
-| First Header  | Second Header | 
+| 1. zložka  | 2. zložka | 
 | ------------- | ------------- | 
 | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
