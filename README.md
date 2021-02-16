@@ -19,7 +19,7 @@ git commit
 | Martin | Praskač  |
 | Jakub | Bederka  |
 # Prepojenie
-This link will redirect you to your BUT e-learning,where you can submit your project. [VUT BR](vutbr.cz).
+[ŠK Lopašov](https://www.sk-lopasov.sk/)
 # Riadkovanie
 * 1
 * 2
