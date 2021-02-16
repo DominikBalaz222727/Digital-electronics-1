@@ -49,6 +49,8 @@ begin
 end architecture dataflow;
 ```
 ## 2. Distribučné zákony ##
+### Odkaz na eda playground ### 
+[Distribucne](https://www.edaplayground.com/x/kuqx)
 
 ![Distribucne](Images/Distribucne.png)
 
@@ -75,6 +77,5 @@ begin
 end architecture dataflow;
 ```
 
-### Odkaz na eda playground ### 
-[Distribucne](https://www.edaplayground.com/x/kuqx)
+
 
