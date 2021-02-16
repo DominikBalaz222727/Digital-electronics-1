@@ -16,3 +16,7 @@ git commit
 | mobil  | 3  |
 | dom | 1  |
 | auto | 1  |
+
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
