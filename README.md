@@ -18,5 +18,15 @@ git commit
 | auto | 1  |
 
 <div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
+  This text is purple, <a href="#" class="text-inherit">#0366d6, $bg-blue</a>
+</div>
+
+
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">#0366d6</a>
+</div>
+
+
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">$bg-blue</a>
 </div>
