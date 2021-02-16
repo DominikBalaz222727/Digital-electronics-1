@@ -1,12 +1,11 @@
-EDA PLAYGROUND ODKAZ
-https://www.edaplayground.com/x/gujC
-#Lab 1#
+# Lab- 1 Baláž 222727 #
 
 ## 1. De Morganove zákony ##
 
-##Odkaz na eda playground## 
+### Odkaz na eda playground ### 
 [DeMorgan](https://www.edaplayground.com/x/gujC)
 
+**DeMorgan**
 
 ```vhdl
 architecture dataflow of gates is
@@ -44,6 +43,6 @@ begin
 end architecture dataflow;
 ```
 
-# Edaplayground
+### Odkaz na eda playground ### 
 [Distribucne](https://www.edaplayground.com/x/kuqx)
 
