@@ -18,9 +18,5 @@ git commit
 | auto | 1  |
 
 ```diff
-%-% 1. úloha
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+-1. úloha
 ```
