@@ -28,5 +28,5 @@ git commit
 
 
 <div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">$bg-blue</a>
+  This text is purple, <a href="#" class="text-inherit">.bg-blue</a>
 </div>
