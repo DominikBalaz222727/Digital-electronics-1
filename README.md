@@ -18,8 +18,9 @@ git commit
 | Jozef  | Mikula  |
 | Martin | Praskač  |
 | Jakub | Bederka  |
-#
-
+# Prepojenie
+This link will redirect you to your BUT e-learning,where you can submit your project. [VUT BR](vutbr.cz).
+# Riadkovanie
 * 1
 * 2
   * 3
