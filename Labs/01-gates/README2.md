@@ -7,7 +7,7 @@
 ### Odkaz na eda playground ### 
 [DeMorgan](https://www.edaplayground.com/x/gujC)
 
-![1,2,3 funkcia](Images/DeMorgan.png)
+![1,2,3 funkcia](Images/demorg.PNG)
 
 
 | **c** | **b** |**a** | **f(c,b,a)** |
@@ -52,7 +52,7 @@ end architecture dataflow;
 ### Odkaz na eda playground ### 
 [Distribucne](https://www.edaplayground.com/x/kuqx)
 
-![Distribucne](Images/Distribucne.png)
+![Distribucne](Images/distrib.PNG)
 
 
 | **c** | **b** |**a** | **f(c,b,a)** |
