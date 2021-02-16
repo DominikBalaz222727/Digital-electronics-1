@@ -1,7 +1,7 @@
 EDA PLAYGROUND ODKAZ
 https://www.edaplayground.com/x/gujC
 
-*1. De Morganove zákony*
+**1. De Morganove zákony**
 **VHDL KOD**
 
 ```vhdl
@@ -30,6 +30,7 @@ end architecture dataflow;
 ```
 *2. Distribučné zákony*
 
+```vhdl
 architecture dataflow of gates is
 begin
     funkcia1_o <= ((x_i and y_i) or (x_i and z_i));
@@ -37,6 +38,7 @@ begin
     funkcia3_o <= ((x_i or y_i) and (x_i or z_i));
     funkcia4_o <= (x_i or (y_i and z_i));
 end architecture dataflow;
+```
 
 **DISTRIBUCNE** 
 https://www.edaplayground.com/x/kuqx
