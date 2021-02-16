@@ -21,6 +21,5 @@ git commit
 -1. úloha
 ```
 
-```html
-<h3 style="color:#ff0000">Danger</h3>
-```
+`#ffffff`ahoj
+ahoj`#ffffff`
