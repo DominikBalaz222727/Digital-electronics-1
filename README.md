@@ -9,17 +9,15 @@ git status
 git add
 git commit
 ```
-
-
-| 1. zložka  | 2. zložka | 
-| ------------- | ------------- | 
-| mobil  | 3  |
-| dom | 1  |
-| auto | 1  |
-#
 ```diff
--1. úloha
+-Červené písmo
 ```
 
-`#ffffff`ahoj
-ahoj`#ffffff`
+| Meno  | Priezvisko | 
+| ------------- | ------------- | 
+| Jozef  | Mikula  |
+| Martin | Praskač  |
+| Jakub | Bederka  |
+#
+
+
