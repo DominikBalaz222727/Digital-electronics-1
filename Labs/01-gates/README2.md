@@ -1,7 +1,12 @@
 EDA PLAYGROUND ODKAZ
 https://www.edaplayground.com/x/gujC
+#Lab 1#
 
-**1. De Morganove zákony**
+##1. De Morganove zákony##
+
+# Edaplayground
+[DeMorgan](https://www.edaplayground.com/x/gujC)
+
 **VHDL KOD**
 
 ```vhdl
@@ -28,7 +33,7 @@ begin
     fnor_o  <= not(b_i or not a_i) or not (c_i or b_i);
 end architecture dataflow;
 ```
-*2. Distribučné zákony*
+##2. Distribučné zákony##
 
 ```vhdl
 architecture dataflow of gates is
@@ -40,5 +45,6 @@ begin
 end architecture dataflow;
 ```
 
-**DISTRIBUCNE** 
-https://www.edaplayground.com/x/kuqx
+# Edaplayground
+[Distribucne](https://www.edaplayground.com/x/kuqx)
+
