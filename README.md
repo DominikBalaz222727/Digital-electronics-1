@@ -21,11 +21,6 @@ git commit
 -1. úloha
 ```
 
-<div class="bg-blue-light mb-2">
-  .text-gray-dark on .bg-blue-light
-</div>
-```
-<div class="bg-blue-light mb-2">
-  .text-gray-dark on .bg-blue-light
-</div>
+```html
+<h3 style="color:#ff0000">Danger</h3>
 ```
