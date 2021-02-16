@@ -16,7 +16,7 @@ git commit
 | mobil  | 3  |
 | dom | 1  |
 | auto | 1  |
-
+#
 ```diff
 -1. úloha
 ```
