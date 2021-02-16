@@ -7,7 +7,22 @@
 ### Odkaz na eda playground ### 
 [DeMorgan](https://www.edaplayground.com/x/gujC)
 
-**DeMorgan**
+![1,2,3 funkcia](Images/DeMorgan.png)
+
+
+| **c** | **b** |**a** | **f(c,b,a)** |
+| :-: | :-: | :-: | :-: |
+| 0 | 0 | 0 | 1 |
+| 0 | 0 | 1 | 1 |
+| 0 | 1 | 0 | 0 |
+| 0 | 1 | 1 | 0 |
+| 1 | 0 | 0 | 0 |
+| 1 | 0 | 1 | 1 |
+| 1 | 1 | 0 | 0 |
+| 1 | 1 | 1 | 0 |
+
+
+**1.Funkcia**
 
 ```vhdl
 architecture dataflow of gates is
@@ -16,7 +31,7 @@ begin
 end architecture dataflow;
 ```
 
-**NAND**
+**2.Funkcia NAND**
 
 ```vhdl
 architecture dataflow of gates is
@@ -25,7 +40,7 @@ begin
 end architecture dataflow;
 ```
 
-**NOR**
+**3.Funkcia NOR**
 
 ```vhdl
 architecture dataflow of gates is
@@ -34,6 +49,20 @@ begin
 end architecture dataflow;
 ```
 ## 2. Distribučné zákony ##
+
+![Distribucne](Images/Distribucne.png)
+
+
+| **c** | **b** |**a** | **f(c,b,a)** |
+| :-: | :-: | :-: | :-: |
+| 0 | 0 | 0 | 1 |
+| 0 | 0 | 1 | 1 |
+| 0 | 1 | 0 | 0 |
+| 0 | 1 | 1 | 0 |
+| 1 | 0 | 0 | 0 |
+| 1 | 0 | 1 | 1 |
+| 1 | 1 | 0 | 0 |
+| 1 | 1 | 1 | 0 |
 
 ```vhdl
 architecture dataflow of gates is
