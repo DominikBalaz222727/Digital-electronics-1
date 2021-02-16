@@ -7,7 +7,7 @@
 ### Odkaz na eda playground ### 
 [DeMorgan](https://www.edaplayground.com/x/gujC)
 
-[1,2,3 funkcia](Images/DeMorgan.png)
+![1,2,3 funkcia](Images/DeMorgan.png)
 
 
 | **c** | **b** |**a** | **f(c,b,a)** |
@@ -50,7 +50,7 @@ end architecture dataflow;
 ```
 ## 2. Distribučné zákony ##
 
-[Distribucne](Labs/Images/Distribucne.png)
+![Distribucne](Images/Distribucne.png)
 
 
 | **c** | **b** |**a** | **f(c,b,a)** |
