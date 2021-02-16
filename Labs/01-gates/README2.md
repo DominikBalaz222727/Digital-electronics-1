@@ -7,7 +7,7 @@
 ### Odkaz na eda playground ### 
 [DeMorgan](https://www.edaplayground.com/x/gujC)
 
-![1,2,3 funkcia](Images/DeMorgan.png)
+[1,2,3 funkcia](Images/DeMorgan.png)
 
 
 | **c** | **b** |**a** | **f(c,b,a)** |
@@ -50,7 +50,7 @@ end architecture dataflow;
 ```
 ## 2. Distribučné zákony ##
 
-![Distribucne](Labs/Images/Distribucne.png)
+[Distribucne](Labs/Images/Distribucne.png)
 
 
 | **c** | **b** |**a** | **f(c,b,a)** |
@@ -64,6 +64,7 @@ end architecture dataflow;
 | 1 | 1 | 0 | 0 |
 | 1 | 1 | 1 | 0 |
 
+**Distribucne zakony**
 ```vhdl
 architecture dataflow of gates is
 begin
