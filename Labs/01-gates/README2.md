@@ -50,7 +50,7 @@ end architecture dataflow;
 ```
 ## 2. Distribučné zákony ##
 
-![Distribucne](Images/Distribucne.png)
+![Distribucne](Labs/Images/Distribucne.png)
 
 
 | **c** | **b** |**a** | **f(c,b,a)** |
