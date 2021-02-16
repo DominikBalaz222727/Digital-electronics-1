@@ -1,4 +1,6 @@
-# Lab- 1 Baláž 222727 #
+```diff
+-Lab- 1 Baláž 222727
+```
 
 ## 1. De Morganove zákony ##
 
