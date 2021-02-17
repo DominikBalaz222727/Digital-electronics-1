@@ -7,14 +7,16 @@
 
 
 
-https://github.com/DominikBalaz222727
-
 ## Pomôcky
-#### ( ` )  alt+96  
+|                              |                        |
+| :--------------------------- | ---------------------- |
+| **git add -A**               | (pridanie všetkého)    |
+| **git commit -m "komentár"** | (komentovanie zmeny)   |
+| **git push**                 | (presunutie na github) |
+| **alt + 96**                 | ( ` )                  |
+|                              |                        |
 
-**git add -A**  (pridanie všetkého)
-**git commit -m "komentár"** (komentovanie zmeny) 
-**git push**   (presunutie na github)
+
 
 ## Skúška
 
