@@ -6,6 +6,10 @@
 ## Pomôcky
 #### ( ` )  alt+96  
 
+> git status <!--Nečum-->
+> git add nerozumim
+> git commit
+
 ## GitHub
 
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> 
