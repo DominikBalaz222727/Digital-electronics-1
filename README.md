@@ -1,11 +1,20 @@
-# Digital-electronics-1
+## 🧐Digital-electronics-1
+
 ## Kontakt
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> xbalaz13@vutbr.cz
 
-## Nadpis 3 úrovne
-#### alt+96  apostrof
+## Pomôcky
+#### ( ` )  alt+96  
+
+## GitHub
+
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> 
+
+
+
 **Tučné písmo** a
 *Italic písmo*
+
 ```
 git status
 git add
@@ -17,14 +26,17 @@ git commit
 
 | Meno  | Priezvisko |
 | ------------- | ------------- |
-| Jozef  | Mikula  |
+| Timotej | Zimka      |
 | Martin | Praskač  |
 | Jakub | Bederka  |
-# Prepojenie
+## Prepojenie
 [ŠK Lopašov](https://www.sk-lopasov.sk/)
-# Riadkovanie
+
+## Riadkovanie
 * 1
 * 2
   * 3
   * 4
+
+
 
