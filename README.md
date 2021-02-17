@@ -8,8 +8,8 @@
 
 
 ## Pomôcky
-|                              |                        |
-| :--------------------------- | ---------------------- |
+| <u>Kód</u>                   | <u>Význam</u>          |
+| ---------------------------- | ---------------------- |
 | **git add -A**               | (pridanie všetkého)    |
 | **git commit -m "komentár"** | (komentovanie zmeny)   |
 | **git push**                 | (presunutie na github) |
