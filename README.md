@@ -3,17 +3,20 @@
 ## Kontakt
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> xbalaz13@vutbr.cz
 
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> DominikBalaz222727
+
+
+
+https://github.com/DominikBalaz222727
+
 ## Pomôcky
 #### ( ` )  alt+96  
 
-> git status <!--Nečum-->
-> git add nerozumim
-> git commit
+**git add -A**  (pridanie všetkého)
+**git commit -m "komentár"** (komentovanie zmeny) 
+**git push**   (presunutie na github)
 
-## GitHub
-
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> 
-
+## Skúška
 
 
 **Tučné písmo** a
