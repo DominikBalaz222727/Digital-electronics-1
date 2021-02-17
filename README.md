@@ -8,7 +8,7 @@
 
 
 ## Pomôcky
-| ==<u>Kód</u>==               | ==<u>Význam</u>==      |
+| <u>Kód</u>                   | <u>Význam</u>          |
 | ---------------------------- | ---------------------- |
 | **git add -A**               | (pridanie všetkého)    |
 | **git commit -m "komentár"** | (komentovanie zmeny)   |
@@ -18,11 +18,11 @@
 
 
 
-## ==Skúška==
+## Skúška
 
 
-==**Tučné písmo** a==
-==*Italic písmo*==
+**Tučné písmo** a
+*Italic písmo*
 
 ```
 git status
@@ -33,19 +33,19 @@ git commit
 -Červené písmo
 ```
 
-| ==Meno== | ==Priezvisko== |
+| Meno  | Priezvisko |
 | ------------- | ------------- |
-| ==Timotej== | ==Zimka==  |
-| ==Martin== | ==Praskač== |
-| ==Jakub== | ==Bederka== |
-## ==Prepojenie==
-==[ŠK Lopašov](https://www.sk-lopasov.sk/)==
+| Timotej | Zimka      |
+| Martin | Praskač  |
+| Jakub | Bederka  |
+## Prepojenie
+[ŠK Lopašov](https://www.sk-lopasov.sk/)
 
-## ==Riadkovanie==
-* ==1==
-* ==2==
-  * ==3==
-  * ==4==
+## Riadkovanie
+* 1
+* 2
+  * 3
+  * 4
 
 
 
