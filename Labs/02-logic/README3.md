@@ -1,81 +1,23 @@
-```diff
--Lab- 1 (Baláž 222727)
-```
+| **Dec. equivalent** | **B[1:0]** | **A[1:0]** | **B is greater than A** | **B equals A** | **B is less than A** |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 0 | 0 0 | 0 0 | 0 | 1 | 0 |
+| 1 | 0 0 | 0 1 | 0 | 0 | 1 |
+| 2 | 0 0 | 1 0 | 0 | 0 | 1 |
+| 3 | 0 0 | 1 1 | 0 | 0 | 1 |
+| 4 | 0 1 | 0 0 | 1 | 0 | 0 |
+| 5 | 0 1 | 0 1 | 0 | 1 | 0 |
+| 6 | 0 1 | 1 0 | 0 | 0 | 1 |
+| 7 | 0 1 | 1 1 | 0 | 0 | 1 |
+| 8 | 1 0 | 0 0 | 1 | 0 | 0 |
+| 9 | 1 0 | 0 1 | 1 | 0 | 0 |
+| 10 | 1 0 | 1 0 | 0 | 1 | 0 |
+| 11 | 1 0 | 1 1 | 0 | 0 | 1 |
+| 12 | 1 1 | 0 0 | 1 | 0 | 0 |
+| 13 | 1 1 | 0 1 | 1 | 0 | 0 |
+| 14 | 1 1 | 1 0 | 1 | 0 | 0 |
+| 15 | 1 1 | 1 1 | 0 | 1 | 0 |
 
-## 1. De Morganove zákony ##
+equals_SoP = m0 + m5 + m10 + m15 = (!b1.!b0.!a1.!a0) + (!b1.b0.!a1.a0) + (b1.!b0.a1.!a0) + (b1.b0.a1.a0)
 
-### Odkaz na eda playground ### 
-[DeMorgan](https://www.edaplayground.com/x/gujC)
-
-![1,2,3 funkcia](Images/demorg.PNG)
-
-
-| **c** | **b** |**a** | **f(c,b,a)** |
-| :-: | :-: | :-: | :-: |
-| 0 | 0 | 0 | 1 |
-| 0 | 0 | 1 | 1 |
-| 0 | 1 | 0 | 0 |
-| 0 | 1 | 1 | 0 |
-| 1 | 0 | 0 | 0 |
-| 1 | 0 | 1 | 1 |
-| 1 | 1 | 0 | 0 |
-| 1 | 1 | 1 | 0 |
-
-
-**1.Funkcia**
-
-```vhdl
-architecture dataflow of gates is
-begin
-    f_o    <= ((not b_i) and a_i) or ((not c_i) and (not b_i));
-end architecture dataflow;
-```
-
-**2.Funkcia NAND**
-
-```vhdl
-architecture dataflow of gates is
-begin
-     fnand_o <= not (not (not b_i and a_i) and not(not c_i and not b_i));
-end architecture dataflow;
-```
-
-**3.Funkcia NOR**
-
-```vhdl
-architecture dataflow of gates is
-begin
-    fnor_o  <= not(b_i or not a_i) or not (c_i or b_i);
-end architecture dataflow;
-```
-## 2. Distribučné zákony ##
-### Odkaz na eda playground ### 
-[Distribucne](https://www.edaplayground.com/x/kuqx)
-
-![Distribucne](Images/distrib.PNG)
-
-
-| **c** | **b** |**a** | **f(c,b,a)** |
-| :-: | :-: | :-: | :-: |
-| 0 | 0 | 0 | 1 |
-| 0 | 0 | 1 | 1 |
-| 0 | 1 | 0 | 0 |
-| 0 | 1 | 1 | 0 |
-| 1 | 0 | 0 | 0 |
-| 1 | 0 | 1 | 1 |
-| 1 | 1 | 0 | 0 |
-| 1 | 1 | 1 | 0 |
-
-**Distribucne zakony**
-```vhdl
-architecture dataflow of gates is
-begin
-    funkcia1_o <= ((x_i and y_i) or (x_i and z_i));
-    funkcia2_o <= (x_i and (y_i or z_i));
-    funkcia3_o <= ((x_i or y_i) and (x_i or z_i));
-    funkcia4_o <= (x_i or (y_i and z_i));
-end architecture dataflow;
-```
-
-
-
+less_PoS = 	M0 . 	       M4 . 	      M5 . 	      M8 .	     M9 . 	     M10 . 	     M12 .	     M13 . 	       M14 . 		M15 = </br>
+	 = (b1+b0+a1+a0).(b1+!b0+a1+a0).(b1+!b0+a1+!a0).(!b1+b0+a1+a0).(!b1+b0+a1+!a0).(!b1+b0+!a1+a0).(!b1+!b0+a1+a0).(!b1+!b0+a1+!a0).(!b1+!b0+!a1+a0).(!b1+!b0+!a1+!a0)
