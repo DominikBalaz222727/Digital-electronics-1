@@ -36,11 +36,11 @@ less_PoS = 	M0 . 	       M4 . 	      M5 . 	      M8 .	     M9 . 	     M10 . 	   
 
 ## Karnaughova mapa
 
-![karnaugh](Images/kmapa.PNG)
+![karnaugh](Images/kmapa.png)
 
 ## Minimalizácia Karnaughových máp
 
-![less](Images/lessgreater.PNG)
+![less](Images/lessgreater.png)
 
 ## 4-bitový comparator
 
