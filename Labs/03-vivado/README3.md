@@ -127,12 +127,12 @@ end architecture testbench;
 ```
 ## Simulácia
 ### Default 
-![chyba](Images/default.PNG)
+![default](Images/default.PNG)
 ### Binary
-![signal](Images/binary.PNG)
+![binary](Images/binary.PNG)
 ## Vivado Tutoriál
 #### Spustíme  aplikáciu Vivado 
-![1](Images/1.PNG)
+![1](Images/1.png)
 ![1a](Images/1a.PNG)
 #### Vytvoríme projekt
 ![2](Images/2.PNG)
@@ -160,4 +160,4 @@ end architecture testbench;
 #### Rovnaký postup použijeme aj pri iných zdrojoch "constraints alebo simulation sources"
 ![17](Images/17.PNG)
 #### Spustenie simulácie:  "Flow" --> "Run Simulation" --> "Run Behavioral Simulation"
-![18](Images/18.PNG)
+![18](Images/18.png)
