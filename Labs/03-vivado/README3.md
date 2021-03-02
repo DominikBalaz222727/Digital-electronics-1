@@ -133,7 +133,7 @@ end architecture testbench;
 ## Vivado Tutoriál
 #### Spustíme  aplikáciu Vivado 
 ![1](Images/1.png)
-![1a](Images/1a.PNG)
+![1a](Images/1a.png)
 #### Vytvoríme projekt
 ![2](Images/2.PNG)
 ![3](Images/3.PNG)
@@ -148,7 +148,7 @@ end architecture testbench;
 ![8](Images/8.PNG)
 ![9](Images/9.PNG)
 #### Klikneme na "File" --> "Add Sources" alebo klávesovú skratku "Alt+A"
-![10](Images/10.PNG)
+![10](Images/10.png)
 #### Podľa toho aký zdroj chceme vytvoriť tak zvolíme v našom prípade "design sources" a následne "next"
 ![11](Images/11.PNG)
 ![12](Images/12.PNG)
