@@ -132,7 +132,6 @@ end architecture testbench;
 ![binary](Images/binary.PNG)
 ## Vivado Tutoriál
 #### Spustíme  aplikáciu Vivado 
-![1](Images/1.png)
 ![1a](Images/1a.png)
 #### Vytvoríme projekt
 ![2](Images/2.PNG)
