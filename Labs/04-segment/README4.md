@@ -22,6 +22,7 @@
 | d | 1101 | 1 | 0 | 0 | 0 | 0 | 1 | 0 |
 | E | 1110 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
 | F | 1111 | 0 | 1 | 1 | 1 | 0 | 0 | 0 |
+
 ![7segmentovy](Images/segment7.png)
 ## VHDL kód- dekóder
 ```vhdl
@@ -120,7 +121,7 @@ begin
 
 end architecture testbench;
 ```
-![sim1](Images/simulacia1.png)
+![sim1](Images/simulacia1.PNG)
 
 ## LED pravdivostná tabuľka
 
@@ -284,4 +285,4 @@ begin
 
 end architecture testbench;
 ```
-![sim2](Images/simulacia2.png)
+![sim2](Images/simulacia2.PNG)
