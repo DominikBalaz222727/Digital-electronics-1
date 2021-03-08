@@ -23,6 +23,7 @@
 | E | 1110 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
 | F | 1111 | 0 | 1 | 1 | 1 | 0 | 0 | 0 |
 
+![nexysa7](Images/n4r.png)
 ![7segmentovy](Images/segment7.png)
 ## VHDL kód- dekóder
 ```vhdl
