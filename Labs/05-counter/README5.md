@@ -177,5 +177,5 @@ AN <= b"1111_1110";
 end architecture Behavioral;
 
 ```
-## Top level (VHDL code source file 16-bit)
+## Top level (16-bit)
 ![schema16bit](Images/s1.png)
