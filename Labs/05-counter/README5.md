@@ -178,4 +178,4 @@ end architecture Behavioral;
 
 ```
 ## Top level (VHDL code source file 16-bit)
-![schema16bit](Images/schema.PNG)
+![schema16bit](Images/s1.png)
