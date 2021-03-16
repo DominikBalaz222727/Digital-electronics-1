@@ -88,7 +88,7 @@ end architecture testbench;
 ## Simulated time waveforms
 
 
-![sim2](Images/simulacia.PNG)
+![sim](Images/simulacia.PNG)
 
 ## Top level (VHDL code source file 4-bit)
 ```vhdl
@@ -178,3 +178,4 @@ end architecture Behavioral;
 
 ```
 ## Top level (VHDL code source file 16-bit)
+![schema16bit](Images/schema.png)
