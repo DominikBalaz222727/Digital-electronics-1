@@ -198,4 +198,4 @@ end architecture testbench;
 
 ```
 ## Driver-7seg-8digits
-![schema](Images/driver.png)
+![schema](Images/driver.PNG)
