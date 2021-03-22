@@ -5,7 +5,7 @@
 
 ## Preparation tasks (done before the lab at home)
 
-![WaveDrom](Images/wave.png)
+![WaveDrom](Images/wave.PNG)
 
 ## Display driver (VHDL source p_mux)
 ```vhdl
@@ -198,4 +198,4 @@ end architecture testbench;
 
 ```
 ## Driver-7seg-8digits
-![schema](Images/driver.png)
+![schema](Images/driver.PNG)
