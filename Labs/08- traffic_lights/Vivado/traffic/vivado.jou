@@ -32,3 +32,8 @@ close_sim
 launch_simulation
 source tb_tlc.tcl
 close_sim
+close [ open {D:/Skola-GIT/Digital-electronics-1/Labs/08- traffic_lights/Vivado/traffic/traffic.srcs/sources_1/new/smart_traffic.vhd} w ]
+add_files {{D:/Skola-GIT/Digital-electronics-1/Labs/08- traffic_lights/Vivado/traffic/traffic.srcs/sources_1/new/smart_traffic.vhd}}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
