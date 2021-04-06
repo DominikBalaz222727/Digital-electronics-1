@@ -161,7 +161,7 @@
 end architecture Behavioral;
 ```
 ## Simulation 
-![Simulacia](Images/Schema1.png)
+![Simulacia](Images/schema02.png)
 ## Table for smart controller
 
 | **Current state** | **Direction South** | **Direction West** | **Delay** | Info |
