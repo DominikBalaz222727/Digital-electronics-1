@@ -15,7 +15,7 @@
 | :-: | :-: | :-: | :-: | :-: |
 | LD16 | N15, M16, R12 | `1,0,0` | `1,1,0` | `0,1,0` |
 | LD17 | N16, R11, G14 | `1,0,0` | `1,1,0` | `0,1,0` |
-## Nexys A7-50T manual
+## Nexys A7-50T
 ![Nexys](Images/n4r.png)
 ## Traffic light controller 
 ![Schema](Images/schema.jpg)
@@ -161,7 +161,7 @@
 end architecture Behavioral;
 ```
 ## Simulation 
-![Simulacia](Images/schema02.png)
+![simulacia](Images/simulacia.png)
 ## Table for smart controller
 
 | **Current state** | **Direction South** | **Direction West** | **Delay** | Info |
